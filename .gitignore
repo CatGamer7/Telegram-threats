@@ -1,0 +1,35 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+*.swp
+
+# Log files and temporary files
+*.log
+*.tmp
+
+# Configuration files (if sensitive)
+.env
+config.ini
+
+# Build artifacts
+dist/
+build/
+
+# Large fies
+*.csv
+*.json
+*.pth
+
+# Example files
+!Labeled_15076.json
+!labeled_ner_emo.csv
