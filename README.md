@@ -1,5 +1,8 @@
 # About
-Exploration of threats in telegram messages. The goall is to fuse and compare modern NLP tools and classic ML approaches to the task
+Exploration of threats in telegram messages. The goall is to fuse and compare modern NLP tools and classic ML approaches to the task.
+
+# Data
+The dataset originates from [HuggingFace_repository](https://huggingface.co/datasets/singlelabelmulticlass/ThreatGram101) and is used in accordance with Creative Commons Attribution 4.0 license.
 
 # Workflow
 1. Unzip the [archive](/ThreatGram%2520101%2520-%2520Extreme%2520Telegram%2520Replies%2520Data%2520with%2520Threat%2520Levels.zip) with data. It cointains 2 .json files: smaller labeled dataset and larger unlabeled dataset;
