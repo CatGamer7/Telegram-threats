@@ -29,6 +29,11 @@ build/
 *.csv
 *.json
 *.pth
+*.cbm
+*.model
+*.txt
+*.pkl
+/catboost_info
 
 # Example files
 !Labeled_15076.json
